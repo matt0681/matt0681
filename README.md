@@ -3,6 +3,16 @@
 
 <span>Paintings by <a href="https://en.wikipedia.org/wiki/Carl_Spitzweg">Carl Spitzweg</span>
 
+___
+## About Me 👋
+I am a **Current Masters Student in Computer Science and Engineering** at the **University of Notre Dame** 🏰. My current interests are in digital humanities, faith, and human-computer interaction.
+
+___
+## Education 🎓
+- **Master of Science in Computer Science and Engineering (In Progress)** - University of Notre Dame
+- **Bachelor of Science in Computer Science and Mathematics** - Samford University
+
+
 
 
 <!--
