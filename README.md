@@ -24,14 +24,16 @@ Data Analysis with Python - <em>freeCodeCamp(🔥)</em> (In Progress)
 
 ___
 ## Languages and Tools 🛠️
+<em>Python, Java, SQL, Flutter, Dart</em>
+<em>PyCharm, IntelliJ, Informatica Tools, AWS, Visual Studio Code, Google Collaboratory</em>
 <code><img height="40" src="assets/python.svg"></code>
 <code><img height="40" src="assets/java.png"></code>
-
+<code><img height="40" src="assets/sql.png"></code>
 
 
 <code><img height="40" src="assets/python.png"></code>
 <code><img height="40" src="assets/RStudio.png"></code>
-<code><img height="40" src="assets/sql.png"></code>
+
 <code><img height="40" src="assets/pycharm.png"></code>
 <code><img height="40" src="assets/tidyverse-logo.png"></code>
 <br>
