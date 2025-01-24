@@ -12,6 +12,42 @@ ___
 - **Master of Science in Computer Science and Engineering (In Progress)** - University of Notre Dame
 - **Bachelor of Science in Computer Science and Mathematics** - Samford University
 
+___
+## Certifications 📜
+<details><summary>
+🧠 Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)
+</summary></details>
+
+<details><summary>
+<a href="https://coursera.org/share/374bbba40c6456b1f397e0cd05d2fccf">🌐 IBM Data Science Professional Certificate</a> – <em>Coursera</em> (May 2020)
+</summary>
+<br>
+<strong>150 Hours of Coursework and Projects</strong>
+<ol>
+  <li>What is Data Science?</li>
+  <li>Tools for Data Science</li>
+  <li>Data Science Methodology</li>
+  <li>Python for Data Science and AI</li>
+  <li>Databases and SQL for Data Science with Python</li>
+  <li>Data Analysis, Visualization, and Machine Learning with Python</li>
+  <li><a href="https://github.com/dmsmiley/Italian_Restaurant_Review_Boston">Applied Data Science Capstone</a></li>
+</ol>
+</details>
+
+___
+## Languages and Tools 🛠️
+<code><img height="40" src="assets/python.png"></code>
+<code><img height="40" src="assets/RStudio.png"></code>
+<code><img height="40" src="assets/sql.png"></code>
+<code><img height="40" src="assets/pycharm.png"></code>
+<code><img height="40" src="assets/tidyverse-logo.png"></code>
+<br>
+<code><img height="40" src="assets/pandas.png"></code>
+<code><img height="40" src="assets/visual-studio-code.png"></code>
+<code><img height="40" src="assets/jupyter-notebook.png"></code>
+<code><img height="40" src="assets/numpy.png"></code>
+<code><img height="40" src="assets/raspberry.png"></code>
+
 
 
 
