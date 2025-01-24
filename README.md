@@ -26,19 +26,19 @@ ___
 ## Languages and Tools 🛠️
 Python, Java, SQL, Flutter, Dart
 
-<code><img height="40" src="assets/python.svg"></code>
-<code><img height="40" src="assets/java.png"></code>
-<code><img height="40" src="assets/sql.png"></code>
+<code><img height="50" src="assets/python.svg"></code>
+<code><img height="50" src="assets/java.png"></code>
+<code><img height="50" src="assets/sql.png"></code>
 
 PyCharm, IntelliJ, Informatica Tools, AWS, Visual Studio Code, Google Collaboratory
 
-<code><img height="40" src="assets/pycharm.png"></code>
-<code><img height="40" src="assets/intellij.png"></code>
-<code><img height="40" src="assets/informatica.png"></code>
+<code><img height="50" src="assets/pycharm.png"></code>
+<code><img height="50" src="assets/intellij.png"></code>
+<code><img height="50" src="assets/informatica.png"></code>
 <br>
-<code><img height="40" src="assets/aws.png"></code>
-<code><img height="40" src="assets/vscode.png"></code>
-<code><img height="40" src="assets/collab.png"></code>
+<code><img height="50" src="assets/aws.png"></code>
+<code><img height="50" src="assets/vscode.png"></code>
+<code><img height="50" src="assets/collab.png"></code>
 
 
 <!--
