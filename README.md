@@ -5,17 +5,17 @@
 
 ___
 ## About Me 👋
-I am a **Current Masters Student in Computer Science and Engineering** at the **University of Notre Dame** 🏰. My current interests are in digital humanities, faith, and human-computer interaction.
+I am a **Current Masters Student in Computer Science and Engineering** at the **University of Notre Dame** 🏰. My current interests are in digital humanities and human-computer interaction.
 
 ___
 ## Education 🎓
-- **Master of Science in Computer Science and Engineering (In Progress)** - University of Notre Dame
+- **Master of Science in Computer Science and Engineering (In Progress)** - University of Notre Dame ☘️
 - **Bachelor of Science in Computer Science and Mathematics** - Samford University
 
 ___
 ## Certifications 📜
 <details><summary>
-🧠 Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)
+Data Analysis with Python - <em>freeCodeCamp(🔥)</em> (In Progress)
 </summary></details>
 
 <details><summary>
