@@ -24,28 +24,21 @@ Data Analysis with Python - <em>freeCodeCamp(🔥)</em> (In Progress)
 
 ___
 ## Languages and Tools 🛠️
-<em>Python, Java, SQL, Flutter, Dart</em>
-
-<em>PyCharm, IntelliJ, Informatica Tools, AWS, Visual Studio Code, Google Collaboratory</em>
+Python, Java, SQL, Flutter, Dart
 
 <code><img height="40" src="assets/python.svg"></code>
 <code><img height="40" src="assets/java.png"></code>
 <code><img height="40" src="assets/sql.png"></code>
 
-
-<code><img height="40" src="assets/python.png"></code>
-<code><img height="40" src="assets/RStudio.png"></code>
+PyCharm, IntelliJ, Informatica Tools, AWS, Visual Studio Code, Google Collaboratory
 
 <code><img height="40" src="assets/pycharm.png"></code>
-<code><img height="40" src="assets/tidyverse-logo.png"></code>
+<code><img height="40" src="assets/intellij.png"></code>
+<code><img height="40" src="assets/informatica.png"></code>
 <br>
-<code><img height="40" src="assets/pandas.png"></code>
-<code><img height="40" src="assets/visual-studio-code.png"></code>
-<code><img height="40" src="assets/jupyter-notebook.png"></code>
-<code><img height="40" src="assets/numpy.png"></code>
-<code><img height="40" src="assets/raspberry.png"></code>
-
-
+<code><img height="40" src="assets/aws.png"></code>
+<code><img height="40" src="assets/vscode.png"></code>
+<code><img height="40" src="assets/collab.png"></code>
 
 
 <!--
