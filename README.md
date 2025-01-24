@@ -115,30 +115,10 @@ ___
   <img align="left" alt="Matthew Lad | Gmail" width="60px" src="assets/gmail.png"/>
 </a>
 
-<br>
-<br>
-<br>
-
-<a href="https://github.com/dmsmiley/dmsmiley">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmsmiley&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+___
+<a href="https://github.com/matt0681/matt0681">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt0681&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=dmsmiley&theme=highcontrast&show_icons=true&count_private=true)
-
-
-
-<!--
-**matt0681/matt0681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=matt0681&theme=highcontrast&show_icons=true&count_private=true)
 
