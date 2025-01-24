@@ -1,5 +1,8 @@
-<code><img height="200px" src="assets/the_bookworm.jpg"></code>
-<code><img height="200px" src="assets/the_gnome.jpg"></code>
+<code><img height="300px" src="assets/the_bookworm.jpg"></code>
+<code><img height="300px" src="assets/the_gnome.jpg"></code>
+
+<span>Paintings by <a href="https://en.wikipedia.org/wiki/Carl_Spitzweg">Carl Spitzweg</span>
+
 
 
 <!--
