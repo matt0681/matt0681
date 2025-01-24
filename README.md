@@ -34,15 +34,10 @@ PyCharm, IntelliJ, Informatica Tools, AWS, Visual Studio Code, Google Collaborat
 
 <code><img height="50" src="assets/pycharm.png"></code>
 <code><img height="50" src="assets/intellij.png"></code>
-<code><img height="50" src="assets/informatica.png"></code>
+<code><img height="50" src="assets/informatica.webp"></code>
 <code><img height="50" src="assets/aws.png"></code>
 <code><img height="50" src="assets/vscode.png"></code>
 <code><img height="50" src="assets/collab.png"></code>
-
-
-
-
-
 
 ___
 ## Projects 🚀
