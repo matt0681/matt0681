@@ -48,6 +48,7 @@ ___
   </summary>
   <p></p>
   A website which generates a gender pay gap assessment report based on a company's payroll data.
+  
   Tools: Python, Streamlit, Data Analysis, Mathematics, Payroll, Human Resources
 </details>
 
