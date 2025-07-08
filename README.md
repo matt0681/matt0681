@@ -28,10 +28,10 @@ ___
 ## Languages and Tools 🛠️
 Python, Java, SQL, Flutter, Dart
 
-<code><img height="80" src="assets/python.png"></code>
+<code><img height="50" src="assets/python.png"></code>
 <code><img height="80" src="assets/java.png"></code>
-<code><img height="80" src="assets/sql.png"></code>
-<code><img height="80" src="assets/flutter_dart.png"></code>
+<code><img height="70" src="assets/sql.png"></code>
+<code><img height="50" src="assets/flutter_dart.png"></code>
 
 PyCharm, IntelliJ, Informatica Tools, AWS, Visual Studio Code, Google Collaboratory
 
