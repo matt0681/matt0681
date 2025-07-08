@@ -93,8 +93,6 @@ ___
   <img align="left" alt="Matthew Lad | LinkedIn" height="45px" src="assets/linkedin.png"/>
 </a>
 
-##### WEBSITE TOO - 
-
 <br>
 <br>
 <br>
