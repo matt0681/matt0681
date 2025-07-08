@@ -44,7 +44,7 @@ ___
 ## Projects 🚀
 <details>
   <summary>
-    <a href='https://github.com/matt0681/GPG_Tool)'><strong>Gender Pay Gap Reporting Tool</strong></a>
+    <a href='https://github.com/matt0681/GPG_Tool)'><strong>⚖️ Gender Pay Gap Reporting Tool</strong></a>
   </summary>
   <br>
   
@@ -67,7 +67,7 @@ ___
 
 <details>
   <summary>
-    <a href='https://github.com/matt0681/Data-Science-Project'><strong>Machine Learning Movie Revenue Predictor</strong></a>
+    <a href='https://github.com/matt0681/Data-Science-Project'><strong>🎬 Machine Learning Movie Revenue Predictor</strong></a>
   </summary>
   <br>
   
@@ -90,7 +90,7 @@ ___
 
 <details>
   <summary>
-    <a href='https://github.com/matt0681/Addiction-Recovery-App'><strong>Addiction Recovery Tracking App</strong></a>
+    <a href='https://github.com/matt0681/Addiction-Recovery-App'><strong>🌱 Addiction Recovery Tracking App</strong></a>
   </summary>
   <br>
   
@@ -113,7 +113,7 @@ ___
 
 <details>
   <summary>
-    <a href=''><strong>AI Author Identifier and Imitator</strong></a>
+    <a href=''><strong>✍️ AI Author Identifier and Imitator</strong></a>
   </summary>
   <br>
   
@@ -136,7 +136,7 @@ ___
 
 <details>
   <summary>
-    <a href='https://github.com/matt0681/In-Her-Shoes-Simulation'><strong>In Her Shoes - Domestic Violence Response Training Program</strong></a>
+    <a href='https://github.com/matt0681/In-Her-Shoes-Simulation'><strong>🛡️ In Her Shoes - Domestic Violence Response Training Program</strong></a>
   </summary>
   <br>
   
@@ -159,7 +159,7 @@ ___
 
 <details>
   <summary>
-    <a href='https://github.com/matt0681/Databases-Course-Project'><strong>National Quidditch Leagure Database</strong></a>
+    <a href='https://github.com/matt0681/Databases-Course-Project'><strong>🧹 National Quidditch Leagure Database</strong></a>
   </summary>
   <br>
   
