@@ -16,16 +16,6 @@ ___
 - **B.S. in Computer Science and Mathematics** - Samford University
 
 ___
-## Certifications 📜
-<details><summary>
-Data Analysis with Python - <em>freeCodeCamp(🔥)</em> (In Progress)
-</summary></details>
-
-<details><summary>
-<a href="https://www.freecodecamp.org/certification/IncredibleMelon/scientific-computing-with-python-v7">Scientific Computing with Python Certificate</a> – <em>freeCodeCamp(🔥)</em> (May 2024)
-</summary></details>
-
-___
 ## Languages and Tools 🛠️
 Python, Java, SQL, Flutter, Dart, React
 
@@ -84,6 +74,15 @@ ___
 ##### 1
 ##### 1
 
+___
+## Certifications 📜
+<details><summary>
+Data Analysis with Python - <em>freeCodeCamp(🔥)</em> (In Progress)
+</summary></details>
+
+<details><summary>
+<a href="https://www.freecodecamp.org/certification/IncredibleMelon/scientific-computing-with-python-v7">Scientific Computing with Python Certificate</a> – <em>freeCodeCamp(🔥)</em> (May 2024)
+</summary></details>
 
 ___
 ## Let's Connect 🌐
@@ -93,6 +92,8 @@ ___
 <a href="mailto:mattman678@gmail.com">
   <img align="left" alt="Matthew Lad | Gmail" width="60px" src="assets/gmail.png"/>
 </a>
+
+##### WEBSITE TOO
 
 <br>
 <br>
