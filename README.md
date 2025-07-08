@@ -46,23 +46,6 @@ ___
   <summary>
     <a href='https://github.com/matt0681/GPG_Tool)'><strong>Gender Pay Gap Reporting Tool</strong></a>
   </summary>
-  <br>
-  
-  <strong>Skills</strong>
-  <ul>
-    <li>Collaborating with human resource and information technology teams.</li>
-    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
-    <li>Visualizing payroll data in intuitive ways.</li>
-  </ul>
-  
-  <strong>Python Libraries</strong>
-  <ul>
-    <li>Streamlit</li>
-    <li>Pandas</li>
-    <li>MatplotLib</li>
-    <li>NumPy</li>
-  </ul>
-  <br>
 </details>
 
 <details>
