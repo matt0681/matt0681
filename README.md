@@ -30,7 +30,7 @@ ___
 Python, Java, SQL, Flutter, Dart, React
 
 <p float="left">
-  <img src="assets/python.png"    width="8%" />
+  <img src="assets/python.png"    width="7%" />
   <img src="assets/java.svg"      width="25%" />
   <img src="assets/sql.png"       width="15%" />
   <img src="assets/flutter.png"   width="10%" />
