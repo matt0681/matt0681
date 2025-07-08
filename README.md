@@ -65,8 +65,8 @@ ___
   <br>
 </details>
 
-##### Data Science class Project
-##### Addiction Recovery app
+##### Data Science class Project - https://github.com/matt0681/Data-Science-Project
+##### Addiction Recovery app - 
 ##### ML chris fak project
 ##### In Her Shoes
 ##### Quidditch League
@@ -86,14 +86,14 @@ Data Analysis with Python - <em>freeCodeCamp(🔥)</em> (In Progress)
 
 ___
 ## Let's Connect 🌐
-<a href="https://www.linkedin.com/in/matthew-lad/">
-  <img align="left" alt="Matthew Lad | LinkedIn" width="45px" src="assets/linkedin.png"/>
+<a href="https://matt0681.github.io/">
+  <img align="left" alt="Matthew Lad | Website" height="45px" src="assets/website.png"/>
 </a>
-<a href="mailto:mattman678@gmail.com">
-  <img align="left" alt="Matthew Lad | Gmail" width="60px" src="assets/gmail.png"/>
+<a href="https://www.linkedin.com/in/matthew-lad/">
+  <img align="left" alt="Matthew Lad | LinkedIn" height="45px" src="assets/linkedin.png"/>
 </a>
 
-##### WEBSITE TOO
+##### WEBSITE TOO - 
 
 <br>
 <br>
