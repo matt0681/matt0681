@@ -41,12 +41,14 @@ Python, Java, SQL, Flutter, Dart, React
 
 Visual Studio Code, PyCharm, IntelliJ, Informatica Tools, AWS, Google Collaboratory
 
-<code><img height="50" src="assets/pycharm.png"></code>
-<code><img height="50" src="assets/intellij.png"></code>
-<code><img height="50" src="assets/informatica.webp"></code>
-<code><img height="50" src="assets/aws.png"></code>
-<code><img height="50" src="assets/vscode.png"></code>
-<code><img height="50" src="assets/collab.png"></code>
+<p float="left">
+  <img src="assets/pycharm.png"       height="60px" />
+  <img src="assets/intellij.png"      height="60px" />
+  <img src="assets/informatica.webp"  height="60px" />
+  <img src="assets/aws.png"           height="60px" />
+  <img src="assets/vscode.png"        height="60px" />
+  <img src="assets/collab.png"        height="60px" />
+</p>
 
 ___
 ## Projects 🚀
