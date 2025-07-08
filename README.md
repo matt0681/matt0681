@@ -1,4 +1,4 @@
-<code><img height="250px" src="assets/the_bookworm.jpg"></code>
+![image 1]<img height="250px" src="assets/the_bookworm.jpg">
 <code><img height="250px" src="assets/glendalough2.png"></code>
 <code><img height="250px" src="assets/the_gnome.jpg"></code>
 
