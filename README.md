@@ -35,7 +35,7 @@ Python, Java, SQL, Flutter, Dart, React
   <img src="assets/sql.png"     width="15%" />
   <img src="assets/flutter.png" width="10%" />
   <img src="assets/dart.png"    width="10%" />
-  <img src="assets/react.png"   width="10%" />
+  <img src="assets/react1.png"   width="10%" />
 </p>
 
 
