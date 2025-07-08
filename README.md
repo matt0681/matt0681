@@ -46,9 +46,8 @@ ___
   <summary>
     <a href='https://github.com/matt0681/GPG_Tool)'><strong>Gender Pay Gap Reporting Tool</strong></a>
   </summary>
-  <br>
+  A website which generates a gender pay gap assessment report based on a company's payroll data.
   <ul>
-    <li>A website which generates a gender pay gap assessment report based on a company's payroll data.</li>
     <li>Python, Streamlit, Data Analysis, Mathematics, Payroll, Human Resources</li>
   </ul>
   <br>
