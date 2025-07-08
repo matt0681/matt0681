@@ -97,17 +97,16 @@ ___
   
   <strong>Skills</strong>
   <ul>
-    <li>Collaborating with human resource and information technology teams.</li>
-    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
-    <li>Visualizing payroll data in intuitive ways.</li>
+    <li>Learned and implemented the development cycle for mobile applications.</li>
+    <li>Designed and built a working mobile application.</li>
+    <li>Gained a better understanding of addiction and appreciation for recovery efforts.</li>
   </ul>
   
-  <strong>Python Libraries</strong>
+  <strong>Tools Used:</strong>
   <ul>
-    <li>Streamlit</li>
-    <li>Pandas</li>
-    <li>MatplotLib</li>
-    <li>NumPy</li>
+    <li>Flutter</li>
+    <li>Dart</li>
+    <li>Android Studio</li>
   </ul>
   <br>
 </details>
@@ -120,14 +119,17 @@ ___
   
   <strong>Skills</strong>
   <ul>
-    <li>Collaborating with human resource and information technology teams.</li>
-    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
-    <li>Visualizing payroll data in intuitive ways.</li>
+    <li>Learned and implemented various techniques in stylometry (author detection).</li>
+    <li>Experimented with various large language models (LLMs) and generative AI models.</li>
+    <li>Successfully trained a model to detect and imitate author styles in writing.</li>
   </ul>
   
-  <strong>Python Libraries</strong>
+  <strong>Python Tools</strong>
   <ul>
     <li>Streamlit</li>
+    <li>OpenAI</li>
+    <li>Llama</li>
+    <li>DeepSeek</li>
     <li>Pandas</li>
     <li>MatplotLib</li>
     <li>NumPy</li>
