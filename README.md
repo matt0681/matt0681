@@ -1,4 +1,4 @@
-![image 1](https://github.com/matt0681/matt0681/blob/main/assets/the_bookworm.jpg)
+<img src="assets/the_bookworm.jpg" width="50%" />
 <code><img height="250px" src="assets/glendalough2.png"></code>
 <code><img height="250px" src="assets/the_gnome.jpg"></code>
 
