@@ -54,14 +54,14 @@ ___
 ## Projects 🚀
 <details>
   <summary>
-    <a href='https://github.com/matt0681/GPG_Tool)'><strong>HR Gender Pay Gap Reporting Tool</strong></a>
+    <a href='https://github.com/matt0681/GPG_Tool)'><strong>Gender Pay Gap Reporting Tool</strong></a>
   </summary>
   
   <br>
   
   <strong>Skills</strong>
   <ul>
-    <li>Collaborating with human resources and information technology teams.</li>
+    <li>Collaborating with human resource and information technology teams.</li>
     <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
     <li>Visualizing payroll data in intuitive ways.</li>
   </ul>
@@ -74,6 +74,8 @@ ___
     <li>NumPy</li>
   </ul>
 </details>
+
+<br>
 
 <details><summary>
 <a href='https://github.com/dmsmiley/Italian_Restaurant_Review_Boston'><strong>🍝 Italian Restaurant Reviews - Boston</strong></a>
