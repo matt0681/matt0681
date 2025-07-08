@@ -67,15 +67,16 @@ ___
 
 <details>
   <summary>
-    <a href='https://github.com/matt0681/Data-Science-Project'><strong>Machine Learning Movie Revenue Predictor</strong></a>
+    <a href='https://github.com/matt0681/Data-Science-Project'><strong>Movie Revenue Predictor</strong></a>
   </summary>
   <br>
   
   <strong>Skills</strong>
   <ul>
-    <li>Collaborating with human resource and information technology teams.</li>
-    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
-    <li>Visualizing payroll data in intuitive ways.</li>
+    <li>Utilized a wide range of Machine Learning and AI techniques applied to data analytics.</li>
+    <li>Practiced data science methods in normalization, data cleaning, and basic statistical methods.</li>
+    <li>Implemented Streamlit for an interactive movie predictor tool.</li>
+    <li>Successfully worked as a team to complete and present the project.</li>
   </ul>
   
   <strong>Python Libraries</strong>
