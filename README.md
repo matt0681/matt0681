@@ -75,16 +75,6 @@ ___
 ##### 1
 
 ___
-## Certifications 📜
-<details><summary>
-Data Analysis with Python - <em>freeCodeCamp(🔥)</em> (In Progress)
-</summary></details>
-
-<details><summary>
-<a href="https://www.freecodecamp.org/certification/IncredibleMelon/scientific-computing-with-python-v7">Scientific Computing with Python Certificate</a> – <em>freeCodeCamp(🔥)</em> (May 2024)
-</summary></details>
-
-___
 ## Let's Connect 🌐
 <a href="https://matt0681.github.io/">
   <img align="left" alt="Matthew Lad | Website" height="45px" src="assets/website1.png"/>
