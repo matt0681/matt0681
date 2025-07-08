@@ -1,6 +1,7 @@
 <code><img height="250px" src="assets/the_bookworm.jpg"></code>
 <code><img height="250px" src="assets/glendalough2.png"></code>
 <code><img height="250px" src="assets/the_gnome.jpg"></code>
+
 <span style="fontsize: 0.5em">Location: <a href="https://en.wikipedia.org/wiki/Glendalough">Glendalough, Ireland. Paintings by <a href="https://en.wikipedia.org/wiki/Carl_Spitzweg">Carl Spitzweg</span>
 
 ___
