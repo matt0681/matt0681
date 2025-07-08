@@ -29,7 +29,7 @@ ___
 Python, Java, SQL, Flutter, Dart
 
 <code><img height="50" src="assets/python.png"></code>
-<code><img height="50" src="assets/java.svg"></code>
+<code><img height="100" src="assets/java.svg"></code>
 <code><img height="50" src="assets/sql.png"></code>
 <code><img height="50" src="assets/flutter_dart.png"></code>
 
