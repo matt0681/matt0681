@@ -65,14 +65,122 @@ ___
   <br>
 </details>
 
-##### Data Science class Project - https://github.com/matt0681/Data-Science-Project
-##### Addiction Recovery app - 
-##### ML chris fak project
-##### In Her Shoes
-##### Quidditch League
-##### 1
-##### 1
-##### 1
+<details>
+  <summary>
+    <a href='https://github.com/matt0681/Data-Science-Project'><strong>Machine Learning Movie Revenue Predictor</strong></a>
+  </summary>
+  <br>
+  
+  <strong>Skills</strong>
+  <ul>
+    <li>Collaborating with human resource and information technology teams.</li>
+    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
+    <li>Visualizing payroll data in intuitive ways.</li>
+  </ul>
+  
+  <strong>Python Libraries</strong>
+  <ul>
+    <li>Streamlit</li>
+    <li>Pandas</li>
+    <li>MatplotLib</li>
+    <li>NumPy</li>
+  </ul>
+  <br>
+</details>
+
+<details>
+  <summary>
+    <a href='https://github.com/matt0681/Addiction-Recovery-App'><strong>Addiction Recovery Tracking App</strong></a>
+  </summary>
+  <br>
+  
+  <strong>Skills</strong>
+  <ul>
+    <li>Collaborating with human resource and information technology teams.</li>
+    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
+    <li>Visualizing payroll data in intuitive ways.</li>
+  </ul>
+  
+  <strong>Python Libraries</strong>
+  <ul>
+    <li>Streamlit</li>
+    <li>Pandas</li>
+    <li>MatplotLib</li>
+    <li>NumPy</li>
+  </ul>
+  <br>
+</details>
+
+<details>
+  <summary>
+    <a href=''><strong>AI Author Identifier and Imitator</strong></a>
+  </summary>
+  <br>
+  
+  <strong>Skills</strong>
+  <ul>
+    <li>Collaborating with human resource and information technology teams.</li>
+    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
+    <li>Visualizing payroll data in intuitive ways.</li>
+  </ul>
+  
+  <strong>Python Libraries</strong>
+  <ul>
+    <li>Streamlit</li>
+    <li>Pandas</li>
+    <li>MatplotLib</li>
+    <li>NumPy</li>
+  </ul>
+  <br>
+</details>
+
+<details>
+  <summary>
+    <a href='https://github.com/matt0681/In-Her-Shoes-Simulation'><strong>In Her Shoes - Domestic Violence Response Training Program</strong></a>
+  </summary>
+  <br>
+  
+  <strong>Skills</strong>
+  <ul>
+    <li>Collaborating with human resource and information technology teams.</li>
+    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
+    <li>Visualizing payroll data in intuitive ways.</li>
+  </ul>
+  
+  <strong>Python Libraries</strong>
+  <ul>
+    <li>Streamlit</li>
+    <li>Pandas</li>
+    <li>MatplotLib</li>
+    <li>NumPy</li>
+  </ul>
+  <br>
+</details>
+
+<details>
+  <summary>
+    <a href='https://github.com/matt0681/Databases-Course-Project'><strong>National Quidditch Leagure Database</strong></a>
+  </summary>
+  <br>
+  
+  <strong>Skills</strong>
+  <ul>
+    <li>Collaborating with human resource and information technology teams.</li>
+    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
+    <li>Visualizing payroll data in intuitive ways.</li>
+  </ul>
+  
+  <strong>Python Libraries</strong>
+  <ul>
+    <li>Streamlit</li>
+    <li>Pandas</li>
+    <li>MatplotLib</li>
+    <li>NumPy</li>
+  </ul>
+  <br>
+</details>
+
+##### Many more here in GitHub!
 
 ___
 ## Let's Connect 🌐
