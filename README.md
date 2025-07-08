@@ -1,6 +1,8 @@
-<img src="assets/the_bookworm.jpg" width="10%" />
-<img src="assets/glendalough2.png" width="10%" />
-<img src="assets/the_gnome.jpg" width="10%" />
+<p float="left">
+  <img src="assets/the_bookworm.jpg" width="10%" />
+  <img src="assets/glendalough2.png" width="10%" />
+  <img src="assets/the_gnome.jpg" width="10%" />
+</p>
 
 <sub>(Paintings by: <a href="https://en.wikipedia.org/wiki/Carl_Spitzweg">Carl Spitzweg</a> | Location: <a href="https://en.wikipedia.org/wiki/Glendalough">Glendalough, Ireland</a>)</sub>
 
