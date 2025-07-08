@@ -6,7 +6,6 @@
 
 <sub>(Paintings by: <a href="https://en.wikipedia.org/wiki/Carl_Spitzweg">Carl Spitzweg</a> | Location: <a href="https://en.wikipedia.org/wiki/Glendalough">Glendalough, Ireland</a>)</sub>
 
-
 ___
 ## About Me 👋
 I am a **Current Masters Student in Computer Science and Engineering** at the **University of Notre Dame** 🏰. My current interests are in data-science, digital humanities, and human-computer interaction.
@@ -28,14 +27,18 @@ Data Analysis with Python - <em>freeCodeCamp(🔥)</em> (In Progress)
 
 ___
 ## Languages and Tools 🛠️
-Python, Java, SQL, Flutter, Dart
+Python, Java, SQL, Flutter, Dart, React
 
-<code><img height="50" src="assets/python.png"></code>
-<code><img height="100" src="assets/java.svg"></code>
-<code><img height="50" src="assets/sql.png"></code>
-<code><img height="50" src="assets/flutter_dart.png"></code>
+<p float="left">
+  <img src="assets/python.png" width="50%" />
+  <img src="assets/java.svg" width="50%" />
+  <img src="assets/sql.png" width="50%" />
+  <img src="assets/flutter_dart.png" width="50%" />
+  <img src="assets/react.png" width="50%" />
+</p>
 
-PyCharm, IntelliJ, Informatica Tools, AWS, Visual Studio Code, Google Collaboratory
+
+Visual Studio Code, PyCharm, IntelliJ, Informatica Tools, AWS, Google Collaboratory
 
 <code><img height="50" src="assets/pycharm.png"></code>
 <code><img height="50" src="assets/intellij.png"></code>
