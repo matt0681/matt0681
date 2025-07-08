@@ -52,23 +52,27 @@ Visual Studio Code, PyCharm, IntelliJ, Informatica Tools, AWS, Google Collaborat
 
 ___
 ## Projects 🚀
-<details><summary>
-<a href='https://github.com/dmsmiley/Predicting-Salaries'><strong>📈 Classifying and Predicting Salaries</strong></a>
-</summary>
-<br>
-<strong>Skills</strong>
-<ul>
-  <li>Comparing classification machine learning algorithms: Logistic Regression, Decision Tree, Naive Bayes, and K-Nearest Neighbors</li>
-  <li>Visualizing confusion matrices and AUROC</li>
-</ul>
-<strong>Python Libraries</strong>
-<ul>
-  <li>Pandas</li>
-  <li>NumPy</li>
-  <li>Seaborn</li>
-  <li>Scikit-Learn</li>
-  <li>MatplotLib</li>
-</ul>
+<details>
+  <summary>
+    <a href='https://github.com/matt0681/GPG_Tool)'><strong>HR Gender Pay Gap Reporting Tool</strong></a>
+  </summary>
+  
+  <br>
+  
+  <strong>Skills</strong>
+  <ul>
+    <li>Collaborating with human resources and information technology teams.</li>
+    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
+    <li>Visualizing payroll data in intuitive ways.</li>
+  </ul>
+  
+  <strong>Python Libraries</strong>
+  <ul>
+    <li>Streamlit</li>
+    <li>Pandas</li>
+    <li>MatplotLib</li>
+    <li>NumPy</li>
+  </ul>
 </details>
 
 <details><summary>
