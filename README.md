@@ -42,11 +42,11 @@ Python, Java, SQL, Flutter, Dart, React
 Visual Studio Code, PyCharm, IntelliJ, Informatica Tools, AWS, Google Collaboratory
 
 <p float="left">
+  <img src="assets/vscode.png"        height="60px" />
   <img src="assets/pycharm.png"       height="60px" />
   <img src="assets/intellij.png"      height="60px" />
   <img src="assets/informatica.webp"  height="60px" />
   <img src="assets/aws.png"           height="60px" />
-  <img src="assets/vscode.png"        height="60px" />
   <img src="assets/collab.png"        height="60px" />
 </p>
 
