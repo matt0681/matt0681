@@ -87,7 +87,7 @@ Data Analysis with Python - <em>freeCodeCamp(🔥)</em> (In Progress)
 ___
 ## Let's Connect 🌐
 <a href="https://matt0681.github.io/">
-  <img align="left" alt="Matthew Lad | Website" height="45px" src="assets/website.png.png"/>
+  <img align="left" alt="Matthew Lad | Website" height="45px" src="assets/website.png"/>
 </a>
 <a href="https://www.linkedin.com/in/matthew-lad/">
   <img align="left" alt="Matthew Lad | LinkedIn" height="45px" src="assets/linkedin.png"/>
