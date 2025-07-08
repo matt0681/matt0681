@@ -56,7 +56,6 @@ ___
   <summary>
     <a href='https://github.com/matt0681/GPG_Tool)'><strong>Gender Pay Gap Reporting Tool</strong></a>
   </summary>
-  
   <br>
   
   <strong>Skills</strong>
@@ -73,49 +72,18 @@ ___
     <li>MatplotLib</li>
     <li>NumPy</li>
   </ul>
+  <br>
 </details>
 
-<br>
+##### Data Science class Project
+##### Addiction Recovery app
+##### ML chris fak project
+##### In Her Shoes
+##### Quidditch League
+##### 1
+##### 1
+##### 1
 
-<details><summary>
-<a href='https://github.com/dmsmiley/Italian_Restaurant_Review_Boston'><strong>🍝 Italian Restaurant Reviews - Boston</strong></a>
-</summary>
-<br>
-<strong>Skills</strong>
-<ul>
-  <li>Scrape restaurant reviews from FourSquare API</li>
-  <li>Capture GeoJSON data from Boston Open Data</li>
-</ul>
-<strong>Python Libraries</strong>
-<ul>
-  <li>Pandas</li>
-  <li>NumPy</li>
-  <li>BeautifulSoup</li>
-  <li>Folium</li>
-  <li>MatplotLib</li>
-  <li>GeoPy</li>
-</ul>
-</details>
-
-<details><summary>
-<a href='https://github.com/dmsmiley/USS_Indianapolis'><strong>⚓ Surviving the USS Indianapolis with Machine Learning (In Progress)</strong></a>
-</summary>
-<br>
-<strong>Skills</strong>
-<ul>
-  <li>Working with local archivists to collect and clean data</li>
-  <li>Training and testing machine learning models</li>
-  <li>Using logistic regression to predict survivability</li>
-</ul>
-<strong>Python Libraries</strong>
-<ul>
-  <li>Pandas</li>
-  <li>NumPy</li>
-  <li>MatplotLib</li>
-  <li>Seaborn</li>
-  <li>Scikit-Learn</li>
-</ul>
-</details>
 
 ___
 ## Let's Connect 🌐
