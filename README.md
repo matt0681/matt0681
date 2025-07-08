@@ -49,125 +49,57 @@ ___
   <p></p>
   A website which generates a gender pay gap assessment report based on a company's payroll data.
   
-  &nbsp;&nbsp;&nbsp;&nbsp;Tools: Python, Streamlit, Data Analysis, Mathematics, Payroll, Human Resources
+  &nbsp;&nbsp;&nbsp;&nbsp;Skills:  Python, Streamlit, Data Analysis, Mathematics, Payroll, Human Resources
 </details>
 
 <details>
   <summary>
     <a href='https://github.com/matt0681/Data-Science-Project'><strong>Movie Revenue Predictor</strong></a>
   </summary>
-  <br>
+  <p></p>
+  A project with accompanying website which developed multiple models to predict revenue in movies.
   
-  <strong>Skills</strong>
-  <ul>
-    <li>Utilized a wide range of Machine Learning and AI techniques applied to data analytics.</li>
-    <li>Practiced data science methods in normalization, data cleaning, and basic statistical methods.</li>
-    <li>Implemented Streamlit for an interactive movie predictor tool.</li>
-    <li>Successfully worked as a team to complete and present the project.</li>
-  </ul>
-  
-  <strong>Python Libraries</strong>
-  <ul>
-    <li>Streamlit</li>
-    <li>Pandas</li>
-    <li>MatplotLib</li>
-    <li>NumPy</li>
-  </ul>
-  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Skills:  Data Analytics, Python, Machine Learning, Statistics, Artificial Intelligence (AI), Streamlit, Cinema
 </details>
 
 <details>
   <summary>
     <a href='https://github.com/matt0681/Addiction-Recovery-App'><strong>Addiction Recovery Tracking App</strong></a>
   </summary>
-  <br>
+  <p></p>
+  A fully developed mobile app which allows users to track their sobriety.
   
-  <strong>Skills</strong>
-  <ul>
-    <li>Learned and implemented the development cycle for mobile applications.</li>
-    <li>Designed and built a working mobile application.</li>
-    <li>Gained a better understanding of addiction and appreciation for recovery efforts.</li>
-  </ul>
-  
-  <strong>Tools Used:</strong>
-  <ul>
-    <li>Flutter</li>
-    <li>Dart</li>
-    <li>Android Studio</li>
-  </ul>
-  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Skills:  Mobile App Development, Flutter, Dart, SQL, UI & UX Design, Full-Stack Development, Social Good, Social Change
 </details>
 
 <details>
   <summary>
     <a href=''><strong>AI Author Identifier and Imitator</strong></a>
   </summary>
-  <br>
+  <p></p>
+  An experimental project into training an AI model to imitate author writing style.
   
-  <strong>Skills</strong>
-  <ul>
-    <li>Learned and implemented various techniques in stylometry (author detection).</li>
-    <li>Experimented with various large language models (LLMs) and generative AI models.</li>
-    <li>Successfully trained a model to detect and imitate author styles in writing.</li>
-  </ul>
-  
-  <strong>Python Tools</strong>
-  <ul>
-    <li>Streamlit</li>
-    <li>OpenAI</li>
-    <li>Llama</li>
-    <li>DeepSeek</li>
-    <li>Pandas</li>
-    <li>MatplotLib</li>
-    <li>NumPy</li>
-  </ul>
-  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Skills:  Python, Streamlit, Data Analysis, Stylometry, Artificial Intelligence (AI), Machine Learning (ML)
 </details>
 
 <details>
   <summary>
     <a href='https://github.com/matt0681/In-Her-Shoes-Simulation'><strong>In Her Shoes - Domestic Violence Response Training Program</strong></a>
   </summary>
-  <br>
+  <p></p>
+  A virtual reality (VR) program used to teach users how to respond to domestic violence situations.
   
-  <strong>Skills</strong>
-  <ul>
-    <li>Collaborating with human resource and information technology teams.</li>
-    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
-    <li>Visualizing payroll data in intuitive ways.</li>
-  </ul>
-  
-  <strong>Python Libraries</strong>
-  <ul>
-    <li>Streamlit</li>
-    <li>Pandas</li>
-    <li>MatplotLib</li>
-    <li>NumPy</li>
-  </ul>
-  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Skills:  Unity VR, C#, UI & UX Design, Social Good, Social Change
 </details>
 
 <details>
   <summary>
     <a href='https://github.com/matt0681/Databases-Course-Project'><strong>National Quidditch Leagure Database</strong></a>
   </summary>
-  <br>
+  <p></p>
+  A database for a fictional Quidditch sports league to help track games, players, and teams. 
   
-  <strong>Skills</strong>
-  <ul>
-    <li>Collaborating with human resource and information technology teams.</li>
-    <li>Formulating statistical models and data analysis methods for understanding gender pay gaps.</li>
-    <li>Visualizing payroll data in intuitive ways.</li>
-  </ul>
-  
-  <strong>Python Libraries</strong>
-  <ul>
-    <li>Streamlit</li>
-    <li>Pandas</li>
-    <li>MatplotLib</li>
-    <li>NumPy</li>
-  </ul>
-  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Skills:  SQL, Databases, Microsoft Azure, Javascript, Python, Harry Potter
 </details>
 
 ##### Many more here in GitHub!
