@@ -1,6 +1,6 @@
 <p float="left">
   <img src="assets/the_bookworm.jpg" width="10%" />
-  <img src="assets/glendalough2.png" width="10%" />
+  <img src="assets/glendalough2.png" width="100%" />
   <img src="assets/the_gnome.jpg" width="10%" />
 </p>
 
