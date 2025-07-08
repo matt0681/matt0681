@@ -7,16 +7,16 @@
 <sub>(Paintings by: <a href="https://en.wikipedia.org/wiki/Carl_Spitzweg">Carl Spitzweg</a> | Location: <a href="https://en.wikipedia.org/wiki/Glendalough">Glendalough, Ireland</a>)</sub>
 
 ___
-## About Me 👋
-I am a **Current Masters Student in Computer Science and Engineering** at the **University of Notre Dame** 🏰. My current interests are in data-science, digital humanities, and human-computer interaction.
+## About Me
+I am a **Current Masters Student in Computer Science and Engineering** at the **University of Notre Dame**. My current interests are in data-science, digital humanities, and human-computer interaction.
 
 ___
-## Education 🎓
-- **M.S. in Computer Science and Engineering (In Progress)** - University of Notre Dame ☘️
+## Education
+- **M.S. in Computer Science and Engineering (In Progress)** - University of Notre Dame
 - **B.S. in Computer Science and Mathematics** - Samford University
 
 ___
-## Languages and Tools 🛠️
+## Languages and Tools
 Python, Java, SQL, Flutter, Dart, React
 
 <p float="left">
@@ -41,10 +41,10 @@ Visual Studio Code, PyCharm, IntelliJ, Informatica Tools, AWS, Google Collaborat
 </p>
 
 ___
-## Projects 🚀
+## Projects
 <details>
   <summary>
-    <a href='https://github.com/matt0681/GPG_Tool)'><strong>⚖️ Gender Pay Gap Reporting Tool</strong></a>
+    <a href='https://github.com/matt0681/GPG_Tool)'><strong>Gender Pay Gap Reporting Tool</strong></a>
   </summary>
   <br>
   
@@ -67,7 +67,7 @@ ___
 
 <details>
   <summary>
-    <a href='https://github.com/matt0681/Data-Science-Project'><strong>🎬 Machine Learning Movie Revenue Predictor</strong></a>
+    <a href='https://github.com/matt0681/Data-Science-Project'><strong>Machine Learning Movie Revenue Predictor</strong></a>
   </summary>
   <br>
   
@@ -90,7 +90,7 @@ ___
 
 <details>
   <summary>
-    <a href='https://github.com/matt0681/Addiction-Recovery-App'><strong>🌱 Addiction Recovery Tracking App</strong></a>
+    <a href='https://github.com/matt0681/Addiction-Recovery-App'><strong>Addiction Recovery Tracking App</strong></a>
   </summary>
   <br>
   
@@ -113,7 +113,7 @@ ___
 
 <details>
   <summary>
-    <a href=''><strong>✍️ AI Author Identifier and Imitator</strong></a>
+    <a href=''><strong>AI Author Identifier and Imitator</strong></a>
   </summary>
   <br>
   
@@ -136,7 +136,7 @@ ___
 
 <details>
   <summary>
-    <a href='https://github.com/matt0681/In-Her-Shoes-Simulation'><strong>🛡️ In Her Shoes - Domestic Violence Response Training Program</strong></a>
+    <a href='https://github.com/matt0681/In-Her-Shoes-Simulation'><strong>In Her Shoes - Domestic Violence Response Training Program</strong></a>
   </summary>
   <br>
   
@@ -159,7 +159,7 @@ ___
 
 <details>
   <summary>
-    <a href='https://github.com/matt0681/Databases-Course-Project'><strong>🧹 National Quidditch Leagure Database</strong></a>
+    <a href='https://github.com/matt0681/Databases-Course-Project'><strong>National Quidditch Leagure Database</strong></a>
   </summary>
   <br>
   
@@ -183,7 +183,7 @@ ___
 ##### Many more here in GitHub!
 
 ___
-## Let's Connect 🌐
+## Let's Connect
 <a href="https://matt0681.github.io/">
   <img align="left" alt="Matthew Lad | Website" height="45px" src="assets/website1.png"/>
 </a>
@@ -197,7 +197,7 @@ ___
 
 ___
 <a href="https://github.com/matt0681/matt0681">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt0681&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt0681&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=matt0681&theme=highcontrast&show_icons=true&count_private=true)
