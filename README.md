@@ -44,7 +44,7 @@ ___
 ## Projects
 <details>
   <summary>
-    <a href='https://github.com/matt0681/GPG_Tool)'><strong>Gender Pay Gap Reporting Tool</strong></a>
+    <a href='https://github.com/matt0681/GPG_Tool'><strong>Gender Pay Gap Reporting Tool</strong></a>
   </summary>
   <p></p>
   A website which generates a gender pay gap assessment report based on a company's payroll data.
