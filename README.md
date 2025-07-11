@@ -74,7 +74,7 @@ ___
 
 <details>
   <summary>
-    <a href=''><strong>AI Author Identifier and Imitator</strong></a>
+    <a href='https://github.com/matt0681/AI-Author-Finetuning-Stylometry'><strong>AI Author Identifier and Imitator</strong></a>
   </summary>
   <p></p>
   An experimental project into training an AI model to imitate author writing style.
