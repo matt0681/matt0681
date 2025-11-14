@@ -8,7 +8,7 @@
 
 ___
 ## About Me
-I am a **Current Masters Student in Computer Science and Engineering** at the **University of Notre Dame**. My current interests are in data-science, digital humanities, and human-computer interaction.
+I am a **Current Masters Student in Computer Science and Engineering** at the **University of Notre Dame**. My current interests are in Software Engineering, Human-Computer Interaction, and Faith.
 
 ___
 ## Education
